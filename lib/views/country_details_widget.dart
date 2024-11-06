@@ -35,7 +35,7 @@ class CountryDetailsWidget extends StatelessWidget {
               ),
             ),
             const SizedBox(
-              width: 12,
+              width: 15,
             ),
             Align(
               alignment: Alignment.centerLeft,
