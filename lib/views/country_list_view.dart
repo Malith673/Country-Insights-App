@@ -34,13 +34,6 @@ class CountryListView extends ConsumerWidget {
                   ],
                 );
 
-                // return ListTile(
-                //   leading: Text(country['emoji'], style: TextStyle(fontSize: 24)),
-                //   title: Text(country['name']),
-                //   subtitle: Text(
-                //       '${country['capital']}, ${country['continent']['name']}'),
-                //   onTap: () {},
-                // );
               },
             ),
           );
